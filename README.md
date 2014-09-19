@@ -1,3 +1,9 @@
+TODO personnal features add
+================
+Add video detection + thumbnail if it's possible
+Add login. More user friendly than htaccess
+
+
 MiniBoardNano SSE
 ================
 
