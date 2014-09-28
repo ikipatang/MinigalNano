@@ -1,1 +1,6 @@
 Options -Indexes 
+
+AuthName "Restricted"
+AuthType Basic
+AuthUserFile "/var/www/my_album/.htpasswd"
+Require valid-user
